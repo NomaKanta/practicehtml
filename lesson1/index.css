@@ -1,0 +1,42 @@
+@charset "utf-8";
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+
+       background-color: black;
+
+       font-size: 16px;
+       font-weight: bold;  
+       margin-right: 200x;
+       margin-left: 10px;
+       margin-top: 10px;
+       border: 1px solid black;
+       width: 400px;
+       height: 450px;
+       padding-top: 35px;
+}
+header h3{
+    color: white;
+    font-size: 24px;
+    font-weight: normal;
+    text-align: left;
+
+
+
+} 
+main{
+    background-color:white;
+
+    margin-right: 200px;
+    margin-left: 10px;
+    border: 1px solid black;
+    width: 400px;
+    height: 450px;
+    font-weight: normal;
+    padding-top: 35px;
+    margin-bottom: 10px;
+
+
+}1
